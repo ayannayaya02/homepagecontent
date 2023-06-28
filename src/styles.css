@@ -2,9 +2,27 @@
 body{
 text-align:center;
 }
+
+p{
+background:#f5f2fe;
+line-height:25px;
+font-size:15px;
+}
+.hero{
+    text-align:center;
+}
+
+.container{
+    text-align:center;
+
+}
 .btn{
-    background:violet;
-    color:white;
-    display:block;
+    background:rgb(118, 28, 118);
+      border-radius: 4px;
+      color:pink;
+  padding: 20px 15px;
+  text-decoration: none;
+  text-transform: capitalize;
+    display:flex;
 
 }
