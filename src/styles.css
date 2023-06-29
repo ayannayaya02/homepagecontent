@@ -6,7 +6,12 @@ text-align:center;
 p{
 background:#f5f2fe;
 line-height:25px;
+text-align:center;
 font-size:15px;
+}
+
+img{
+    display:flex;
 }
 .hero{
     text-align:center;
@@ -24,6 +29,7 @@ font-size:15px;
       border-radius: 4px;
   padding: 20px 15px 20px;
   text-transform: capitalize;
+  margin:20px 15px 20px;
     display:flex;
     box-shadow: 10px 10px 10px;
 
