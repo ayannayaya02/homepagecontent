@@ -12,17 +12,19 @@ font-size:15px;
     text-align:center;
 }
 
-.container{
+.work-section{
     text-align:center;
-
+    margin:10px 10px 10px;
+    padding:25px;
+    display:flex;
 }
-.btn{
-    background:rgb(118, 28, 118);
+
+.btn {
+    color:purple;
       border-radius: 4px;
-      color:pink;
-  padding: 20px 15px;
-  text-decoration: none;
+  padding: 20px 15px 20px;
   text-transform: capitalize;
     display:flex;
+    box-shadow: 10px 10px 10px;
 
 }
